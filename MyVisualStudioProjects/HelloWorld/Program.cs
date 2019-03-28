@@ -21,6 +21,8 @@ namespace HelloWorld
 
             e.GetEmpInfo();
 
+            Console.WriteLine("TEst output")
+
         }
     }
 }
