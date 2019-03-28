@@ -11,6 +11,9 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Welcome to Git"); //Changes for Git Testings
+
+            Console.Read();
         }
     }
 }
