@@ -10,16 +10,16 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World");
-            //Console.WriteLine("Welcome to Git"); //Changes for Git Testings
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Welcome to Git"); //Changes for Git Testings
 
             Console.Read();
 
-            Employee e = new Employee();
-            e.EmpID = 101;
-            e.EmpName = "Vinod";
+            //Employee e = new Employee();
+            //e.EmpID = 101;
+            //e.EmpName = "Vinod";
 
-            e.GetEmpInfo();
+            //e.GetEmpInfo();
 
         }
     }
